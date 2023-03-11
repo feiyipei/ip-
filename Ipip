@@ -8,17 +8,17 @@
 
 # ======= 哔哩哔哩 ======= #
 DOMAIN-SUFFIX,biliapi.net,IP, no-resolve
-DOMAIN-SUFFIX,biliapi.com,IP 
-DOMAIN,api.bilibili.com,IP 
-DOMAIN,api.bilibili.tv,IP 
-DOMAIN,app.bilibili.com,IP 
-DOMAIN,api.live.bilibili.com,IP 
-DOMAIN,api.vc.bilibili.com,IP 
-DOMAIN,passport.bilibili.com,IP 
-DOMAIN,live-trace.bilibili.com,IP 
-DOMAIN,message.bilibili.com,IP 
-DOMAIN,cm.bilibili.com,IP 
-DOMAIN-SUFFIX,bilibili.com,IP 
+DOMAIN-SUFFIX,biliapi.com,IP, no-resolve
+DOMAIN,api.bilibili.com,IP, no-resolve
+DOMAIN,api.bilibili.tv,IP, no-resolve
+DOMAIN,app.bilibili.com,IP, no-resolve
+DOMAIN,api.live.bilibili.com,IP, no-resolve
+DOMAIN,api.vc.bilibili.com,IP, no-resolve
+DOMAIN,passport.bilibili.com,IP, no-resolve
+DOMAIN,live-trace.bilibili.com,IP, no-resolve
+DOMAIN,message.bilibili.com,IP, no-resolve
+DOMAIN,cm.bilibili.com,IP, no-resolve
+DOMAIN-SUFFIX,bilibili.com,IP, no-resolve
 DOMAIN-SUFFIX,im9.com,IP 
 DOMAIN-SUFFIX,acg.tv,IP 
 DOMAIN-SUFFIX,biligame.com,IP 
