@@ -43,7 +43,6 @@ DOMAIN,szshort.weixin.qq.com,IP
 DOMAIN,szextshort.weixin.qq.com,IP
 DOMAIN,szminorshort.weixin.qq.com,IP
 DOMAIN,mp.weixin.qq.com,IP
-IP-CIDR6,2402:4E00:1900:1700:0:9554:1AD0:140A/128,no-resolve
 IP-CIDR6,2402:4e00:1020:10fb:0:9466::/112,no-resolve
 IP-CIDR6,2402:4e00:1430:2264:0:9467::/96,no-resolve
 IP-CIDR6,2402:4e00:8010::/112,no-resolve
