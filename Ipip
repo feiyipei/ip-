@@ -37,6 +37,8 @@ DOMAIN,fclog.baidu.com,IP
 DOMAIN,gsp0.baidu.com,IP
 DOMAIN,hm.baidu.com,IP
 DOMAIN,www.baidu.com,IP
+IP-CIDR,180.76.76.200/32,no-resolve
+
  
 # ======= 微信 ======= #
 DOMAIN,szshort.weixin.qq.com,IP
@@ -202,7 +204,7 @@ IP-CIDR,162.62.163.63/32,no-resolve
 #DOMAIN,www.zhihu.com,IP
 #DOMAIN,api.zhihu.com,IP
 #DOMAIN-SUFFIX,zhihu.com
-#IP-CIDR,103.41.167.0/24,no-resolve
+IP-CIDR,103.41.167.0/24,no-resolve
 
 # ======= 抖音 ======= #
 # 请求域名过多，建议全局代理
